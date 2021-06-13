@@ -1,0 +1,13 @@
+(module DrillHoleJLC_1.152_1.3 (layer F.Cu) (tedit 60BE59C5)
+  (descr "Mounting Hole 2.1mm, no annular")
+  (tags "mounting hole 2.1mm no annular")
+  (attr virtual)
+  (fp_text reference REF** (at 0 -3.81) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value DrillHoleJLC_1.152_1.3 (at 0 3.2) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.152 1.152) (drill 1.152) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.148))
+)
