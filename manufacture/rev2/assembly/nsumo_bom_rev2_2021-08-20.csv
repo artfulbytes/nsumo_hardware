@@ -1,0 +1,56 @@
+Comment,Designator,Footprint,LCSC Part #
+"10uF Unpolarized capacitor, small symbol","C13,C14,C1,C6",C_0603_1608Metric,C19702
+"22uF Unpolarized capacitor, small symbol",C15,C_0805_2012Metric,C45783
+"47uF Unpolarized capacitor, small symbol",C3,C_1206_3216Metric,C96123
+"10nF Unpolarized capacitor, small symbol",C4,C_0805_2012Metric,C1710
+"1nF Unpolarized capacitor, small symbol",C5,C_0603_1608Metric,C1588
+"1uF Unpolarized capacitor, small symbol","C7,C2",C_0805_2012Metric,C28323
+"100nF Unpolarized capacitor, small symbol",C8,C_0603_1608Metric,C14663
+"0.1uF Unpolarized capacitor, small symbol","C9,C11,C12,C10",C_0805_2012Metric,C49678
+GREEN Light emitting diode,D2,LED_0603_1608Metric,C72043
+YELLOW Light emitting diode,D3,LED_0603_1608Metric,C72038
+"B5819W Zener diode, small symbol",D4,D_SOD-123,C8598
+RED Light emitting diode,D5,LED_0603_1608Metric,C2286
+BLUE Light emitting diode,D6,LED_0603_1608Metric,C72041
+"RED Light emitting diode, small symbol","D7,D8,D9,D1",LED_0603_1608Metric,C2286
+"750mA Fuse, small symbol","F2,F1",Fuse_1206_3216Metric,
+MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4",MountingHole_2.2mm_M2_Pad_Via,
+"Range_sensor_left Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,Molex_PicoBlade_53048-0510_1x05_P1.25mm_Horizontal,
+"UART Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J10,PinHeader_1x02_P2.54mm_Vertical,
+"SWD Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J11,PinHeader_1x03_P2.54mm_Vertical,
+"LED Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J12,PinHeader_1x02_P2.54mm_Vertical,
+"PWR Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J13,PinHeader_1x03_P2.54mm_Vertical,
+"MOT_FRONT_RIGHT Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J14,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizont,
+"MOT_BACK_RIGHT Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J15,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizont,
+"MOT_FRONT_LEFT Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J16,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizont,
+"MOT_BACK_LEFT Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J17,TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizont,
+"Ld_front_left Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J19,Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal,
+"Range_sensor_front Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,Molex_PicoBlade_53048-0610_1x06_P1.25mm_Horizontal,
+"Ld_back_left Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J20,Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal,
+"Ld_front_right Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J21,Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal,
+"Ld_back_right Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J22,Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal,
+"BattConn1 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,
+"Range_sensor_front_left Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,Molex_PicoBlade_53048-0510_1x05_P1.25mm_Horizontal,
+"BattConn0 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J5,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,
+"I2C Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J6,PinHeader_1x02_P2.54mm_Vertical,
+"Range_sensor_front_right Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J7,Molex_PicoBlade_53048-0510_1x05_P1.25mm_Horizontal,
+"UNUSED Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J8,PinHeader_1x02_P2.54mm_Vertical,
+"Range_sensor_right Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J9,Molex_PicoBlade_53048-0510_1x05_P1.25mm_Horizontal,
+"10uH Inductor, small symbol",L1,L_Sunlord_MWSA0518_5.4x5.2mm,C408412
+47k Resistor,R1,R_0603_1608Metric,C25819
+"49.9k Resistor, small symbol",R12,R_0805_2012Metric,C17719
+"100 Resistor, small symbol","R13,R14,R16,R11,R10",R_0805_2012Metric,C17408
+"9.53k Resistor, small symbol",R15,R_0805_2012Metric,
+"1 Resistor, small symbol",R2,R_0805_2012Metric,C25271
+"100k Resistor, small symbol",R3,R_0805_2012Metric,C17407
+"470 Resistor, small symbol","R5,R4",R_0805_2012Metric,C17710
+"1k Resistor, small symbol","R6,R7",R_0805_2012Metric,C17513
+"10k Resistor, small symbol","R8,R9",R_1206_3216Metric,C17902
+"SW_DPST_x2 Single Pole Single Throw (SPST) switch, separate symbol",SW1,SW_Push_1P1T_NO_6x6mm_H9.5mm,
+SW_SPST Single Pole Single Throw (SPST) switch,SW2,PinHeader_1x02_P2.54mm_Vertical,
+TSOP382xx Photo Modules for PCM Remote Control Systems,U1,Vishay_MINICAST-3Pin,
+MP2359 ,U2,TSOT-23-6,
+"MSP430G2553IPW28 1kB Flash, 256B RAM, TSSOP-28",U4,TSSOP-28_4.4x9.7mm_P0.65mm,
+"AMS1117-3.3 1A Low Dropout regulator, positive, 1.5V fixed output, SOT-223",U5,SOT-223-3_TabPin2,C6186
+"TB6612FNG Driver IC for Dual DC motor, SSOP-24","U6,U3",SSOP-24_5.3x8.2mm_P0.65mm_LongPads,
+RS3E075AT ,U7,SOP-8_3.9x4.9mm_P1.27mm,
