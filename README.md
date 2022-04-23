@@ -11,5 +11,7 @@ circuit protection (RS3E075AT).
 <img src="/imgs/nsumo.jpg">
 
 ## Setup
-Import the project into KiCad >5.0.
-
+Import the project into KiCad >6.0 and make sure you have the "default global symbol library table"
+and the "default footprint library" available. KiCad should find the 3Dmodels and symbols under _libs/_
+automatically. You must manually import the footprints under _libs/footprints/_ (select "file/add library"
+from the menu in the footprint editor and add them to the project).
